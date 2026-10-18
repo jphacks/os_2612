@@ -47,7 +47,7 @@
 ### 活用した技術
 #### API・データ
 * OpenBD(API)
-* TMBD(API)
+* TMDB(API)
 * ANNICT(API)
 
 #### フレームワーク・ライブラリ・モジュール
